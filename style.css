@@ -409,6 +409,9 @@ footer i:hover{
     .banner1, .banner2, .banner3{
         height: 250px;
     }
+    .backtotop i{
+        right: 0;
+    }
     header .nav-link{
         text-align: center;
         margin: 5px;
